@@ -1,32 +1,78 @@
-<h1>Hi 👋, I'm Abdou Salam</h1>
-<p>A passionate Computer Science student and aspiring Data Scientist & AI Engineer</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" /></a>
-<a target="_blank" href="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" style="display: inline-block;"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" /></a>
-<a target="_blank" href="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="display: inline-block;"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>✒️ Recent Posts</h2>
-<ul>
-<li><a target="_blank" href="https://www.linkedin.com/posts/abdou-salam-sisawo-a09b95337_%F0%9D%90%92%F0%9D%90%82%F0%9D%90%88-%F0%9D%90%82%F0%9D%90%B2%F0%9D%90%9B%F0%9D%90%9E%F0%9D%90%AB%F0%9D%90%AC%F0%9D%90%9E%F0%9D%90%9C%F0%9D%90%AE%F0%9D%90%AB%F0%9D%90%A2%F0%9D%90%AD%F0%9D%90%B2-%F0%9D%90%96%F0%9D%90%9E%F0%9D%90%9E%F0%9D%90%A4-activity-7445462405993816064-az-I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFS29GkBLDJOh-a4OyV2EKtpjZ7Wr1S4eqY">𝐒𝐂𝐈 𝐂𝐲𝐛𝐞𝐫𝐬𝐞𝐜𝐮𝐫𝐢𝐭𝐲 𝐖𝐞𝐞𝐤 𝟐𝟎𝟐𝟔: 𝐀 𝐉𝐨𝐮𝐫𝐧𝐞𝐲 𝐨𝐟 𝐏𝐫𝐞𝐬𝐬𝐮𝐫𝐞, 𝐓𝐞𝐚𝐦𝐰𝐨𝐫𝐤 & 𝐏𝐫𝐨𝐮𝐝 𝐖𝐢𝐧𝐬!</a></li>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/abdou-salam-sisawo-a09b95337" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/https://www.facebook.com/abdousalam.sisawo" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/salam_sisawo/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdouSalamSisawo&show_icons=true&locale=en" alt="AbdouSalamSisawo" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AbdouSalamSisawo&" alt="AbdouSalamSisawo" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdouSalamSisawo&show_icons=true&locale=en&layout=compact" alt="AbdouSalamSisawo" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdouSalamSisawo" alt="AbdouSalamSisawo" /></a></p>
+<h1 align="center">Hi 👋, I'm Abdou Salam</h1>
+<h3 align="center">
+A passionate Computer Science student building skills in Data Science, Machine Learning & AI
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;AI+Explorer;Problem+Solver&center=true&width=500&height=50">
+</p>
+
+---
+
+### 🚀 About Me
+- 🎓 Computer Science student at Albukhary International University
+- 🌱 Currently learning **Machine Learning, Data Science & AI**
+- 💡 Interested in solving real-world problems using data
+- 🛠️ Building projects in **Python, ML & Web Development**
+
+---
+
+### 🛠️ Languages and Tools
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,c,javascript,react,nodejs,html,css,tailwind,mysql,sqlite,firebase,git,linux,figma" />
+</p>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pandas" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdouSalamSisawo&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdouSalamSisawo&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdouSalamSisawo&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔥 Featured Projects
+- 💡 **Medical Insurance Prediction (ML)**  
+  → Predict insurance costs using Machine Learning  
+
+- 🧮 **Python Calculator App**  
+  → Built with modular structure (functions + imports)
+
+---
+
+### ✒️ Recent Activity
+- 🛡️ Participated in **SCI Cybersecurity Week 2026**
+- 🤝 Worked on team-based tech projects
+
+---
+
+### 📫 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/abdou-salam-sisawo-a09b95337" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/abdousalam.sisawo" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/salam_sisawo/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdouSalamSisawo&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
