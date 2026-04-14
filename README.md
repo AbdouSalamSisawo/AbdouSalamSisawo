@@ -4,21 +4,6 @@
 A passionate Computer Science student building skills in Data Science, Machine Learning & AI
 </h3>
 
-### 📫 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/abdou-salam-sisawo-a09b95337" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/abdousalam.sisawo" target="_blank">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/salam_sisawo/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Data+Scientist;Machine+Learning+Enthusiast;AI+Explorer;Problem+Solver&center=true&width=500&height=50">
 </p>
@@ -63,6 +48,21 @@ A passionate Computer Science student building skills in Data Science, Machine L
 ### ✒️ Recent Activity
 - 🛡️ Participated in **SCI Cybersecurity Week 2026**
 - 🤝 Worked on team-based tech projects
+---
+### 📫 Connect With Me
+<p align="center">
+<a href="https://www.linkedin.com/in/abdou-salam-sisawo-a09b95337" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/abdousalam.sisawo" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/salam_sisawo/" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
 
 ---
 
