@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdou Salam</h1>
+
 <h3 align="center">
 A passionate Computer Science student building skills in Data Science, Machine Learning & AI
 </h3>
+
 ### 📫 Connect With Me
 <p align="center">
 <a href="https://www.linkedin.com/in/abdou-salam-sisawo-a09b95337" target="_blank">
