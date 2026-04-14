@@ -30,12 +30,7 @@ A passionate Computer Science student building skills in Data Science, Machine L
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdouSalamSisawo&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdouSalamSisawo&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AbdouSalamSisawo&layout=compact&theme=tokyonight" />
 </p>
 
 ---
