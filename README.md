@@ -74,7 +74,7 @@ A passionate Computer Science student building skills in Data Science, Machine L
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="https://images.credly.com/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png"
-       width="100"
-       style="border-radius: 50%; border: 2px solid #ccc;" />
+  <img src="IBM_DBMS.png" width="100" style="margin:10px;" />
+  <img src="BADGE2_LINK" width="100" style="margin:10px;" />
+  <img src="BADGE3_LINK" width="100" style="margin:10px;" />
 </p>
