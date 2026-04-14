@@ -74,5 +74,5 @@ A passionate Computer Science student building skills in Data Science, Machine L
 
 ### 🏆 Achievements
 <p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=AbdouSalamSisawo&theme=tokyonight&no-frame=true&row=1&column=6](https://images.credly.com/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png)" />
+  <img src="(https://images.credly.com/images/f2573aac-d21c-483d-acda-afaa366b4f51/image.png)"/>
 </p>
