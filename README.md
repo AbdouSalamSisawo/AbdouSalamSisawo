@@ -103,7 +103,7 @@ I'm a **Computer Science (Honours)** undergraduate at **Albukhary International 
   </tr>
 </table>
 
-<p align="center"><a href="https://sisawo-dev-portfolio.vercel.app"><b>→ See all projects on my portfolio</b></a></p>
+<p align="center"><a href="https://sisawo-dev-portfolio.vercel.app/projects"><b>→ See all projects on my portfolio</b></a></p>
 
 ---
 
