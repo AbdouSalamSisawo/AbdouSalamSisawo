@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://sisawo-dev-portfolio.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=ML+Engineering+Intern+%40+FlyRank+AI;Computer+Science+(Hons)+%40+AIU%2C+Malaysia;Building+full-stack+%26+machine+learning+systems;Researching+explainable+AI+(SHAP)" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=620&lines=Open+to+a+6-month+internship+from+March+2027;ML+Engineering+Intern+%40+FlyRank+AI;Computer+Science+(Hons)+%40+AIU%2C+Malaysia;Building+full-stack+%26+machine+learning+systems;Researching+explainable+AI+(SHAP)" alt="Typing intro" />
   </a>
 </p>
 
@@ -17,6 +17,7 @@
 </p>
 
 <p align="center">
+  <a href="mailto:abdousalamsisawo@gmail.com"><img src="https://img.shields.io/badge/Open%20to%20internships-6%20months%20from%20Mar%202027-22c55e?style=flat-square&logo=handshake&logoColor=white" alt="Open to a 6-month internship from March 2027" /></a>
   <img src="https://komarev.com/ghpvc/?username=AbdouSalamSisawo&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/AbdouSalamSisawo?label=Followers&style=flat-square&color=1e3a8a&logo=github" alt="Followers" />
   <img src="https://img.shields.io/badge/Location-Alor%20Setar%2C%20Malaysia-334155?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
@@ -28,6 +29,7 @@
 
 I'm a final-year **Computer Science (Honours)** student at **Albukhary International University**, Malaysia. I build software and machine learning systems, and I research how to make their decisions explainable.
 
+- 🎯 **Open to:** a **6-month internship starting March 2027** in Machine Learning, AI or Software Engineering. [Let's talk](mailto:abdousalamsisawo@gmail.com)
 - 🔭 **Now:** ML Engineering Intern at **FlyRank AI**, working on embeddings, clustering and intent classification
 - 🛠️ **Leading:** the developer team of the Al-Quran and Islamic Club (AL-QISC) as First Deputy EXCO, ICT & Technical
 - 🔬 **Researching:** explainable ML for social entrepreneurship intention, and attention-based deep learning for DNA classification
