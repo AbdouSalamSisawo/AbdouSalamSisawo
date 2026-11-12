@@ -132,6 +132,7 @@ I'm a **Computer Science (Honours)** undergraduate at **Albukhary International 
   <img src="https://img.shields.io/badge/🎓%20Dean's%20List-4%20of%206%20semesters-1e3a8a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🥈%202nd%20Place-Cybersecurity%20Content%20Creators-0ea5e9?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🥈%202nd%20Place-Infographic%20%26%20Memes%20Contest-0ea5e9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🥈%202nd%20Place-Islamic%20Quiz%2C%20Ramadhan%20Closing%20Fest%202025-0ea5e9?style=for-the-badge" alt="2nd Place, Islamic Quiz Competition, Ramadhan Closing Fest 2025 (AL-QISC × PPI AIU)" title="Team, 29 Mar 2025, organised by AIU AL-QISC in collaboration with PPI AIU" />
   <img src="https://img.shields.io/badge/🥉%202nd%20Runner--Up-AfSA%20Debate%20Challenge%202025-334155?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌍%20Aspire%20Leaders-Cohort%201%2C%202026-334155?style=for-the-badge" />
 </p>
