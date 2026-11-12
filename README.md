@@ -26,7 +26,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science (Honours)** undergraduate at **Albukhary International University**, Malaysia (CGPA 3.53, Dean's List in 4 of 6 semesters). I build software and machine learning systems, and I research how to make their decisions explainable.
+I'm a **Computer Science (Honours)** undergraduate at **Albukhary International University**, Malaysia. I build software and machine learning systems, and I research how to make their decisions explainable.
 
 - 🔭 **Now:** ML Engineering Intern at **FlyRank AI**, working on embeddings, clustering and intent classification
 - 🛠️ **Leading:** the developer team of the Al-Quran and Islamic Club (AL-QISC) as First Deputy EXCO, ICT & Technical
