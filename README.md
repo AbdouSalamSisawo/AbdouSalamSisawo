@@ -103,6 +103,7 @@ I'm a final-year **Computer Science (Honours)** student at **Albukhary Internati
     <td width="50%" valign="top">
       <h3>🛍️ Customer Shopping Behavior Analysis</h3>
       End-to-end retail analytics on 3,900 transactions: Python prep, 10 business questions in <b>MySQL</b> (CTEs, window functions), and an interactive <b>Power BI</b> dashboard.<br/><br/>
+      🧩 Python · pandas · Jupyter Notebook · MySQL · Power BI<br/><br/>
       <a href="https://github.com/AbdouSalamSisawo/Customer-Shopping-Behavior-Analysis"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" /></a>
     </td>
   </tr>
