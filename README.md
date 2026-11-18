@@ -82,7 +82,6 @@ I'm a final-year **Computer Science (Honours)** student at **Albukhary Internati
     <td width="50%" valign="top">
       <h3>🚢 CargoTrust AI</h3>
       Shipping document verification that checks every Shipping Instruction against its draft Bill of Lading before issue. Reads emails, PDFs, Word, Excel and scanned documents, flags discrepancies, drafts the customer reply and routes uncertain cases to human review. Built for the Averis × Monash 2026 hackathon.<br/><br/>
-      🎯 Benchmark score 1.0000 · 46/46 defects caught · 883/883 robustness tests<br/>
       🧩 Next.js · TypeScript · PostgreSQL · Tesseract OCR · Claude<br/><br/>
       <a href="https://cargotrust-ai.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-0ea5e9?style=flat-square&logo=vercel&logoColor=white" /></a>
       <a href="https://github.com/AbdouSalamSisawo/CargoTrust-AI-Shipping-Verifier"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" /></a>
