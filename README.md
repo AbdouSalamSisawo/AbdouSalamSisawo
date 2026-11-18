@@ -96,9 +96,11 @@ I'm a final-year **Computer Science (Honours)** student at **Albukhary Internati
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🩺 Early-Stage Diabetes Risk Prediction</h3>
-      Supervised ML on UCI questionnaire data. Duplicate-aware cleaning, stratified CV and GridSearchCV tuning.<br/><br/>
-      📈 <b>Random Forest: 96.1% accuracy · F1 0.94</b>
+      <h3>🛡️ ThreatLens AI</h3>
+      Explainable phishing URL detection. A trained <b>Extra Trees</b> model classifies a URL from 33 lexical features without ever contacting the site, then explains <b>why</b> it got that verdict and gives safety guidance. Built for MMC Upstart 2026 Catalyst.<br/><br/>
+      📈 <b>PR-AUC 0.928 · Precision 0.894</b> on 2,110 URLs from unseen domains<br/>
+      🧩 React · TypeScript · FastAPI · scikit-learn · Supabase<br/><br/>
+      <a href="https://github.com/AbdouSalamSisawo/ThreatLens-AI"><img src="https://img.shields.io/badge/Code-181717?style=flat-square&logo=github" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🛍️ Customer Shopping Behavior Analysis</h3>
